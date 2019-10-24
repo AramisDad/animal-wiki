@@ -1,3 +1,11 @@
-#animal1, #animal2, #animal3 {
+#lion {
+  display: none;
+}
+
+#elephant {
+  display: none;
+  }
+
+#giraffe {
   display: none;
 }
